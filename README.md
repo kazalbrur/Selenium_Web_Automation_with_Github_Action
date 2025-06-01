@@ -1,6 +1,6 @@
 Welcome to the Selenium with Python and Pytest Framework Example!
 
-Created by Adrian Maciuc - https://www.martioli.com - showcases a framework built with Python Pytest and Selenium for automated testing of web application https://magento.softwaretestingboard.com/ . The main goal is to provide a modular and maintainable testing solution .
+Created by Kazal Chandra Barman - https://kazalbrur.github.io/portfolio/ - showcases a framework built with Python Pytest and Selenium for automated testing of web application https://magento.softwaretestingboard.com/ . The main goal is to provide a modular and maintainable testing solution .
 
 ## 📝 Overview
 
